@@ -1,4 +1,4 @@
-Hi, I'm Jacob! I'm currently an undergraduate student at Michigan Technological University majoring in Geospatial Engineering and minoring in Computer Science. As a land surveyor and software engineer, I want to use these two skills of mine to create new technologies and solutions for surveyors, civil engineers, and geospatial engineers. I have over seven years of experience with software development, using a variety of technologies to target multiple platforms and audiences.
+Hi, I'm Jacob! I'm currently Graduate Research Assistant at Michigan Technological University pursuing a doctorate in Civil Engineering, with a focus on Geodesy.
 
 I enjoy using **Kotlin** and the JVM ecosystem to develop desktop applications. For web, I use **TypeScript** with Next.js. But, here's a list of technologies I've worked with:
 
