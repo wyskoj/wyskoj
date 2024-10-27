@@ -1,4 +1,4 @@
-Hi, I'm Jacob! I'm currently a Graduate Research Assistant at Michigan Technological University pursuing a doctorate in Civil Engineering, with a focus on Geodesy.
+Hi, I'm Jacob! I'm currently a graduate student at Michigan Technological University studying Civil Engineering.
 
 I enjoy using **Kotlin** and the JVM ecosystem to develop desktop applications. For web, I use **TypeScript** with Next.js. But, here's a list of technologies I've worked with:
 
